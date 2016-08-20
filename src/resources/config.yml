@@ -1,0 +1,4 @@
+# Which commands are allowed to use while ingame?
+allowed-commands:
+- spleef
+- leave

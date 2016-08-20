@@ -1,0 +1,12 @@
+name: Spleef
+main: me.mats9799.Spleef.Spleef
+version: 1.02
+author: Mats9799
+commands:
+    spleef:
+        aliases: [s, spl]
+        description: Main command
+        usage: /spleef
+    leave:
+        description: Subcommand for leaving arenas
+        usage: /leave
